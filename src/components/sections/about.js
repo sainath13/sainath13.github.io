@@ -142,7 +142,7 @@ const About = () => {
             <p>
               Fast-forward to today, and I've had the privilege of working at{' '}
               <a href="https://www.credit-suisse.com/us/en.html">an Investment bank</a>,{' '}
-              <a href="https://ets.engineering.asu.edu/">Engineeering Technical Services at an University</a>, and{' '}
+              <a href="https://ets.engineering.asu.edu/">Engineeering Technical Services</a>, and{' '}
               <a href="https://github.com/sainath13/Colab/">building a start-up</a>, and{' '}
               Currently, I am on a quest of gathering expert knowledge as a Master's student at <a href="https://www.asu.edu/">ASU</a> and
 	      applying my skill-set for an inclusive, promising and exciting future.
