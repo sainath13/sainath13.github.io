@@ -63,7 +63,7 @@ const Hero = () => {
   const three = <h3 className="big-heading">I build things for distributed systems and the web.🧑‍💻</h3>;
   const four = (
     <p>
-      I am a software engineer specializing in architecting and implementing distributed systems and exceptional digital experiences. Currently, I am pursuing a Master's in Computer Science at Arizona State University.{' '}
+      I am a software engineer specializing in architecting and implementing distributed systems and exceptional digital experiences. Currently, I am pursuing a Master's in Computer Science at {' '}
       <a href="https://www.asu.edu/" target="_blank" rel="noreferrer">
         Arizona State University
       </a>
