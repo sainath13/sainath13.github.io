@@ -60,11 +60,11 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Sainath Latkar.</h2>;
-  const three = <h3 className="big-heading">I am a software engineer.</h3>;
+  const three = <h3 className="big-heading">I build things for distributed systems and the web.🧑‍💻</h3>;
   const four = (
     <p>
-      Currently, I'm studying masters in Computer Science {' '}
-      <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
+      I am a software engineer specializing in architecting and implementing distributed systems and exceptional digital experiences. Currently, I am pursuing a Master's in Computer Science at Arizona State University.{' '}
+      <a href="https://www.asu.edu/" target="_blank" rel="noreferrer">
         Arizona State University
       </a>
       .
