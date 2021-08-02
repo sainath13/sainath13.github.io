@@ -18,7 +18,7 @@ module.exports = {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/sainath-latkar/',
     },
-    {``
+    {
       name: 'Codepen',
       url: 'https://codepen.io/sainath13-the-decoder/',
     },
