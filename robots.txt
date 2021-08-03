@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://sainathl.com/sitemap.xml
+Host: https://sainathl.com
