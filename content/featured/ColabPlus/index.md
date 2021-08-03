@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'Colab Plus'
-cover: './halcyon.png'
+cover: './demo.png'
 github: 'https://github.com/sainath13/Colab/'
 external: 'https://github.com/sainath13/Colab/'
 tech:
