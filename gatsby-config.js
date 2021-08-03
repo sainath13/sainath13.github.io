@@ -2,7 +2,7 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Sainath Latkar',
+    title: 'Sainathl',
     description:
       'Sainath Latkar is a software engineer who specializes in building distributed systems.',
     siteUrl: 'https://sainathl.com', // No trailing slash allowed!
